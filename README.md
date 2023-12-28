@@ -13,7 +13,7 @@ Time Series Multiclass Classification
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
+- **Best Model:** LSTM Neurel Network
 - **Evaluation Metric:** Accuracy
 - **Result:**  60%-80% accuracy due to limitations of dataset
 
