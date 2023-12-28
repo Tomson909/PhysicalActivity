@@ -1,4 +1,4 @@
-# [Your Project Title Here]
+# Physical Activity Classification
 
 ## Repository Link
 
@@ -6,17 +6,16 @@ https://github.com/Tomson909/PhysicalActivity.git
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
-
+In the last couple of years smart watches, etc... for tracking physical activities got more popular then ever. Based on data(Heartbeat, acceleration, etc...) measured by these devices classification of different activities can be done. And this is whta this project is about. The dataset is from Kaggle and can be found [here](https://www.kaggle.com/datasets/diegosilvadefrana/fisical-activity-dataset).
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Time Series Multiclass Classification
 
 ### Results Summary
 
 - **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Evaluation Metric:** Accuracy
+- **Result:**  60%-80% accuracy due to limitations of dataset
 
 ## Documentation
 
