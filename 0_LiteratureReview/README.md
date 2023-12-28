@@ -6,7 +6,7 @@ Approaches or solutions that have been tried before on similar projects.
 
 - **Source 1**: Physical activity prediction with same dataset
 
-  - **[Link](https://www.kaggle.com/code/kaushalkrishna2000/physical-activity-notebook)**
+  - **[Kaggle Notebook](https://www.kaggle.com/code/kaushalkrishna2000/physical-activity-notebook)**
   - **Objective**:Based on the same dataset the physical activity is being predicted
   - **Methods**: Simple mutilayer neural net
   - **Outcomes**: Predicted with an accuracy of 99% but the testing is unrealistic
@@ -14,7 +14,7 @@ Approaches or solutions that have been tried before on similar projects.
 
 - **Source 2**: Physical activity prediction with same datase
 
-  - **[Link](https://www.kaggle.com/code/maheshbabukamepalli/physical-activity-prediction)**
+  - **[Kaggle Notebook](https://www.kaggle.com/code/maheshbabukamepalli/physical-activity-prediction)**
   - **Objective**:Based on the same dataset the physical activity is being predicted
   - **Methods**:Random Forrest approach
   - **Outcomes**: Predicted with an accuracy of 99% but the testing is unrealistic
@@ -22,7 +22,7 @@ Approaches or solutions that have been tried before on similar projects.
 
 - **Source 3**: LSTMs for Human Activity Recognition Time Series Classification
 
-  - **[Link](https://machinelearningmastery.com/how-to-develop-rnn-models-for-human-activity-recognition-time-series-classification/)**
+  - **[Webpage](https://machinelearningmastery.com/how-to-develop-rnn-models-for-human-activity-recognition-time-series-classification/)**
   - **Objective**: Activity Recognition Using Smartphones Dataset
   - **Methods**: CNN-LSTM and ConvLSTM Network modell
   - **Outcomes**: Based on the dataset a accuracy of around 90% could be achieved. 
