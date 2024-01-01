@@ -7,7 +7,7 @@ Approaches or solutions that have been tried before on similar projects.
 - **Source 1**: Physical activity prediction with same dataset
 
   - **[Kaggle Notebook](https://www.kaggle.com/code/kaushalkrishna2000/physical-activity-notebook)**
-  - **Objective**:Based on the same dataset the physical activity is being predicted
+  - **Objective**: Based on the same dataset the physical activity is being predicted
   - **Methods**: Simple mutilayer neural net
   - **Outcomes**: Predicted with an accuracy of 99% but the testing is unrealistic
   - **Relation to the Project**: Same project
@@ -15,8 +15,8 @@ Approaches or solutions that have been tried before on similar projects.
 - **Source 2**: Physical activity prediction with same datase
 
   - **[Kaggle Notebook](https://www.kaggle.com/code/maheshbabukamepalli/physical-activity-prediction)**
-  - **Objective**:Based on the same dataset the physical activity is being predicted
-  - **Methods**:Random Forrest approach
+  - **Objective**: Based on the same dataset the physical activity is being predicted
+  - **Methods**: Random Forrest approach
   - **Outcomes**: Predicted with an accuracy of 99% but the testing is unrealistic
   - **Relation to the Project**: Same Project
 
