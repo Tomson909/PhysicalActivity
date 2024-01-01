@@ -5,8 +5,9 @@
 https://github.com/Tomson909/PhysicalActivity.git
 
 ## Description
+In recent years, there has been a surge in the popularity of smartwatches and similar wearable devices designed for tracking various physical activities. These devices collect a wealth of data, including heart rate, acceleration, and more, offering valuable insights into users' exercise routines. The focus of this project is the classification of different physical activities based on the data acquired from these devices.
 
-In the last couple of years smart watches, etc... for tracking physical activities got more popular then ever. Based on data(Heartbeat, acceleration, etc...) measured by these devices classification of different activities can be done. And this is whta this project is about. The dataset is from Kaggle and can be found [here](https://www.kaggle.com/datasets/diegosilvadefrana/fisical-activity-dataset).
+The dataset utilized for this project can be accessed on Kaggle via the following link: Physical Activity Dataset. [here](https://www.kaggle.com/datasets/diegosilvadefrana/fisical-activity-dataset).
 ### Task Type
 
 Time Series Multiclass Classification
